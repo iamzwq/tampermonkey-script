@@ -4,8 +4,8 @@
 // @version      2.0
 // @description  自定义 CSS 选择器，将任意 DOM 导出为高清图片，支持鼠标点选
 // @author       iamzwq
-// @match        *://*/*
-// @match        file:///*
+// @match        https://md2card.com/zh/editor
+// @match        https://x.com/*
 // @run-at       document-idle
 // @require      https://unpkg.com/modern-screenshot@4.7.0/dist/index.js
 // @grant        GM_addStyle
